@@ -1,6 +1,0 @@
----
-title: "new post"
-format: html
----
-
-hello
